@@ -1,5 +1,6 @@
 # MOVIE CHAT BOT
-![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj0osPQ05TcAhUHQI8KHYCMB0AQjRx6BAgBEAU&url=https%3A%2F%2Fbotlist.co%2Fbots%2Fmovie-bot&psig=AOvVaw3v0FEOfe_u9U1OqPkUjU-G&ust=1531316102596815)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaDMXbYn4X0fet2STlDJb3CQ2TQuZymWMP0E6P6mj123I50bO_mw "LOGO")
 
 ### What are chatbots?
 ##### A chatbot is a program that communicates with you.It is a layer on top of, or a gateway to, a service. 
