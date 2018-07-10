@@ -1,5 +1,6 @@
 # MOVIE CHAT BOT
-![](https://datastandard.blob.core.windows.net/botimg/58ff72b5525d5d15a43ee710-movie-finder-for-messenger)
+![chat-bot](https://datastandard.blob.core.windows.net/botimg/58ff72b5525d5d15a43ee710-movie-finder-for-messenger)
+
 ### What are chatbots?
 ##### A chatbot is a program that communicates with you.It is a layer on top of, or a gateway to, a service. 
 ##### Sometimes it is powered by machine learning (the chatbot gets smarter the more you interact with it). Or, more commonly, it is driven using intelligent rules (i.e. if the person says this, respond with that). The services a chatbot can deliver are diverse. Important life-saving health messages, to check the weather forecast or to purchase a new pair of shoes, and anything else in between.The term chatbot is synonymous with text conversation but is growing quickly through voice communication… “Alexa, what time is it?” (other voice-chatbots are available!). 
