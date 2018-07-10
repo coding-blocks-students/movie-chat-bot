@@ -1,5 +1,5 @@
 # MOVIE CHAT BOT
-![chat-bot](https://datastandard.blob.core.windows.net/botimg/58ff72b5525d5d15a43ee710-movie-finder-for-messenger)
+![chat-bot](58ff72b5525d5d15a43ee710-movie-finder-for-messenger.png)
 
 ### What are chatbots?
 ##### A chatbot is a program that communicates with you.It is a layer on top of, or a gateway to, a service. 
